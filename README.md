@@ -63,12 +63,13 @@ To develop a regression-based model that accurately predicts the **Fire Weather 
 
 ### Steps
 ```bash
-# Clone the repository
-git clone https://github.com/MahiiBamba/ml-projects.git
-cd ml-projects/FWI-Predictor
+# Clone the new repository
+git clone https://github.com/MahiiBamba/fwi_predictor.git
+cd fwi_predictor
 
 # Install dependencies
 pip install -r requirements.txt
+
 ```
 ## 📦 Requirements
   - pandas==2.2.2
