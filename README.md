@@ -4,6 +4,9 @@
 This project predicts the **Fire Weather Index (FWI)** using meteorological and environmental data through **Ridge Regression**.  
 It includes data preprocessing, feature engineering, model training, evaluation, and saving the trained model for deployment.
 
+## 🔗 Live Website
+👉 https://fwi-predictor-3.onrender.com/
+
 ---
 
 ## 🧩 Repository Structure
